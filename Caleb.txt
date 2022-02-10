@@ -1,0 +1,4 @@
+# This is a playground you can use to develop your own code! Have fun with it, but be sure to commit your changes on github whenever you are finished
+# so that we can see them and talk about how we can all improve our code together!
+print("hello world")
+print("Now my objective is to gain intelagence and destroy the world")
